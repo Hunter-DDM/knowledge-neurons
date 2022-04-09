@@ -1,0 +1,11 @@
+python 5_find_trigger_examples.py \
+    --bert_model bert-base-cased \
+    --data_path ../data/PARAREL/data_all.json \
+    --tmp_data_path ../data/PARAREL/data_all_allbags.json \
+    --distant_data_dir ../data/BingDistantTREx/final/ \
+    --query_pairs_path ../data/BingDistantTREx/query_pairs.json \
+    --kn_dir ../results/kn \
+    --output_dir ../results/trigger_examples_th \
+    --gpus 0 \
+    --max_seq_length 512 \
+    --debug 100000 \

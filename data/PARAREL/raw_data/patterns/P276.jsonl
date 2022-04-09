@@ -1,0 +1,2 @@
+{"pattern": "[X] is located in [Y] .", "lemma": "locate", "extended_lemma": "locate", "tense": "present"}
+{"pattern": "[X] is in [Y] .", "lemma": "is-in", "extended_lemma": "is-in", "tense": "present"}

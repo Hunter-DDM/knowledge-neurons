@@ -1,0 +1,2 @@
+{"pattern": "[X] is part of [Y].", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}
+{"pattern": "[X] is a part of [Y].", "lemma": "part-of", "extended_lemma": "is-part-of", "tense": "present"}

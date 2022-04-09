@@ -1,0 +1,8 @@
+{"pattern": "[X] used to communicate in [Y] .", "lemma": "communicate", "extended_lemma": "communicate", "tense": "past"}
+{"pattern": "[X] communicated in [Y] .", "lemma": "communicate", "extended_lemma": "communicate", "tense": "past"}
+{"pattern": "[X] typically used [Y] to communicate .", "lemma": "communicate", "extended_lemma": "communicate", "tense": "past"}
+{"pattern": "[X] used [Y] to communicate .", "lemma": "communicate", "extended_lemma": "communicate", "tense": "past"}
+{"pattern": "[Y] was a language used by [X] .", "lemma": "language", "extended_lemma": "language", "tense": "past"}
+{"pattern": "[Y] is the language used by [X] .", "lemma": "language", "extended_lemma": "language", "tense": "past"}
+{"pattern": "[Y] is the language typically used by [X] .", "lemma": "language", "extended_lemma": "language", "tense": "past"}
+{"pattern": "[X] used the [Y] language .", "lemma": "language", "extended_lemma": "language", "tense": "past"}

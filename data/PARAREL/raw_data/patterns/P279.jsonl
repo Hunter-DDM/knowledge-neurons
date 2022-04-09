@@ -1,0 +1,4 @@
+{"pattern": "[X] is a subclass of [Y].", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], which is a subclass of [Y].", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], a subclass of [Y].", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}
+{"pattern": "[X], a type of [Y].", "lemma": "subclass", "extended_lemma": "is-subclass", "tense": "present"}

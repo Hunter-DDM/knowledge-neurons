@@ -1,0 +1,11 @@
+{"pattern": "[X] was originally aired on [Y].", "lemma": "air", "extended_lemma": "air-on-originally", "tense": "past"}
+{"pattern": "[X] is to debut on [Y].", "lemma": "debut", "extended_lemma": "to-debut-on", "tense": "future"}
+{"pattern": "[Y] is to debut [X].", "lemma": "debut", "extended_lemma": "to-debut", "tense": "future"}
+{"pattern": "[Y] debuted [X].", "lemma": "debut", "extended_lemma": "debut", "tense": "past"}
+{"pattern": "[X] debuted on [Y].", "lemma": "debut", "extended_lemma": "debut-on", "tense": "past"}
+{"pattern": "the [Y] debut of [X].", "lemma": "debut", "extended_lemma": "debut-of", "tense": "?"}
+{"pattern": "the [Y] release of [X].", "lemma": "release", "extended_lemma": "release-of", "tense": "?"}
+{"pattern": "[X] was released on [Y].", "lemma": "release", "extended_lemma": "is-release-on", "tense": "past"}
+{"pattern": "[Y] released [X].", "lemma": "release", "extended_lemma": "release", "tense": "past"}
+{"pattern": "[X] premiered on [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "past"}
+{"pattern": "[X] premieres on [Y].", "lemma": "premiere", "extended_lemma": "premiere-on", "tense": "present"}

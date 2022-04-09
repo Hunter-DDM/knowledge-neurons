@@ -1,0 +1,17 @@
+{"pattern": "[X] was created in [Y].", "lemma": "create", "extended_lemma": "was-create-in", "tense": "past"}
+{"pattern": "[X], that was created in [Y].", "lemma": "create", "extended_lemma": "that-create-in", "tense": "past"}
+{"pattern": "[X], created in [Y].", "lemma": "create", "extended_lemma": "create-in", "tense": "past"}
+{"pattern": "[X], that originated in [Y].", "lemma": "originate", "extended_lemma": "that-originate-in", "tense": "past"}
+{"pattern": "[X] originated in [Y].", "lemma": "originate", "extended_lemma": "originate-in", "tense": "past"}
+{"pattern": "[X] formed in [Y].", "lemma": "form", "extended_lemma": "form-in", "tense": "past"}
+{"pattern": "[X] was formed in [Y].", "lemma": "form", "extended_lemma": "was-form-in", "tense": "past"}
+{"pattern": "[X], that was formed in [Y].", "lemma": "form", "extended_lemma": "that-form-in", "tense": "past"}
+{"pattern": "[X] was formulated in [Y].", "lemma": "formulate", "extended_lemma": "was-formulate-in", "tense": "past"}
+{"pattern": "[X], formulated in [Y].", "lemma": "formulate", "extended_lemma": "formulate-in", "tense": "past"}
+{"pattern": "[X], that was formulated in [Y].", "lemma": "formulate", "extended_lemma": "that-formulate-in", "tense": "past"}
+{"pattern": "[X] was from [Y].", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], who was from [Y].", "lemma": "from", "extended_lemma": "was-from", "tense": "past"}
+{"pattern": "[X], from [Y].", "lemma": "from", "extended_lemma": "from", "tense": "?"}
+{"pattern": "[X], that was developed in [Y].", "lemma": "developed", "extended_lemma": "that-developed-in", "tense": "past"}
+{"pattern": "[X] was developed in [Y].", "lemma": "developed", "extended_lemma": "was-developed-in", "tense": "past"}
+{"pattern": "[X], developed in [Y].", "lemma": "developed", "extended_lemma": "developed-in", "tense": "past"}
