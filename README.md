@@ -37,12 +37,19 @@ Run `8_run_plot.sh`. This command will plot two figures that visualize the resul
 
 If you use this code for your research, please kindly cite our ACL-2022 paper:
 ```
-(The ACL-2022 BibTex will be updated later)
-@article{dai2021knowledge,
-	title={Knowledge neurons in pretrained transformers},
-	author={Dai, Damai and Dong, Li and Hao, Yaru and Sui, Zhifang and Wei, Furu},
-	journal={arXiv preprint arXiv:2104.08696},
-	year={2021}
+@inproceedings{dai2022kn,
+  author    = {Damai Dai and
+               Li Dong and
+               Yaru Hao and
+               Zhifang Sui and
+               Baobao Chang and
+               Furu Wei},
+  title     = {Knowledge Neurons in Pretrained Transformers},
+  booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational
+               Linguistics (Volume 1: Long Papers), {ACL} 2022, Dublin, Ireland,
+               May 22-27, 2022},
+  pages     = {8493--8502},
+  year      = {2022},
 }
 ```
 
